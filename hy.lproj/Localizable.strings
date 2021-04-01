@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  XorO
+
+  Created by ADMIN on 16/12/2019.
+  Copyright © 2019 Armen Shahvaladyan. All rights reserved.
+*/
+
+"Homelabelkey" = "Սեղմեք վերևի ⓘ կոճակը";
+"PlayKey" = "Սկսել";
+"HomeKey" = "Գլխավոր";
+"xScoreKey" = "X-ի հաշիվը: 0";
+"oScoreKey" = "O-ի հաշիվը: 0";
+"GameTitleKey" = "Խաղ";
+"DRAW" = "Ոչ ոքի";
+"CROSS WON" = "Հաղթահարեց X";
+"NOUGHT WON" = "Հաղթահարեց Օ";
+"ColorKey" = "Ընտրել գույնը";
+"xScore:" = "X-ի հաշիվը:";
+"oScore:" = "O-ի հաշիվը:";
+"resetButton" = "Վերսկսել";
+"button" = "Սկսել";
+"Attention" = "Ուշադրություն";
+"X and O colors the same " = "X-ի և O-ի գույները նույնն են ";
+"Cancel" = "Չեղարկել";
+"This language is already selected" = "Այս լեզուն արդեն ընտրված է";
+"Сhoose language" = "Ընտրել լեզուն";

@@ -1,0 +1,49 @@
+
+/* Class = "UILabel"; text = "Cross has won1"; ObjectID = "402-JN-QB7"; */
+"402-JN-QB7.text" = "Cross has won1";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "A4p-hq-IHN"; */
+"A4p-hq-IHN.title" = "Item";
+
+/* Class = "UINavigationItem"; title = "Game"; ObjectID = "CnG-BP-q1M"; */
+"CnG-BP-q1M.title" = "Game";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "D3N-BB-iuo"; */
+"D3N-BB-iuo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "oScore: 0"; ObjectID = "Ghv-wM-dWO"; */
+"Ghv-wM-dWO.text" = "oScore: 0";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Hxk-Wt-dJK"; */
+"Hxk-Wt-dJK.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Info"; ObjectID = "JIW-UN-6mG"; */
+"JIW-UN-6mG.title" = "Info";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "JiU-Ao-Xfi"; */
+"JiU-Ao-Xfi.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "PLAY"; ObjectID = "NW1-Dt-g4w"; */
+"NW1-Dt-g4w.normalTitle" = "PLAY";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "WXf-A4-Z9q"; */
+"WXf-A4-Z9q.normalTitle" = "Play";
+
+/* Class = "UIButton"; normalTitle = "RESET"; ObjectID = "YAs-6l-duT"; */
+"YAs-6l-duT.normalTitle" = "RESET";
+
+/* Class = "UIBarButtonItem"; title = "info"; ObjectID = "agB-NK-yHV"; */
+"agB-NK-yHV.title" = "info";
+
+"Znl-ck-IST.title" = "TEST";
+/* Class = "UITextView"; text = "Tic-tac-toe is a simple, two-player game that, if played optimally by both players, will always result in a tie. The game is also called noughts and crosses or Xs and Os.Tic-tac-toe is a game that is traditionally played by being drawn on paper, and it can be played on a computer or on a variety of media.\n\nHistory of Tic-Tac-Toe\nAn early variation of the game was played in the Roman Empire, around the 1st century B.C. It was called \"terni lapilli,\" which means \"three pebbles at a time.\" The game's grid markings have been found chalked all over Roman ruins. Evidence of the game was also found in ancient Egyptian ruins.\n\n The first print reference to \"noughts and crosses,\" the British name for the game, appeared in 1864. The first print reference to a game called \"tick-tack-toe\" occurred in 1884 but referred to a children's game played on a slate.\n\nGameplay\nThe goal of tic-tac-toe is to be the first player to get three in a row on a 3-by-3 grid.To start, one player draws a board, creating a grid of squares, usually 3-by-3.\n\nIn a 3-by-3 grid game, the player who is playing \"X\" always goes first. Players alternate placing Xs and Os on the board until either player has three in a row, horizontally, vertically, or diagonally or until all squares on the grid are filled. If a player is able to draw three Xs or three Os in a row, then that player wins. If all squares are filled and neither player has made a complete row of Xs or Os, then the game is a draw.\n\n\nOne of the game's best strategies involves creating a \"fork,\" which is placing your mark in such a way that you have the opportunity to win two ways on your next turn. Your opponent can only block one, thereby, you can win after that.\n\n\n"; ObjectID = "bdr-g7-TdI"; */
+"bdr-g7-TdI.text" = "Tic-tac-toe is a simple, two-player game that, if played optimally by both players, will always result in a tie. The game is also called noughts and crosses or Xs and Os.Tic-tac-toe is a game that is traditionally played by being drawn on paper, and it can be played on a computer or on a variety of media.\n\nHistory of Tic-Tac-Toe\nAn early variation of the game was played in the Roman Empire, around the 1st century B.C. It was called \"terni lapilli,\" which means \"three pebbles at a time.\" The game's grid markings have been found chalked all over Roman ruins. Evidence of the game was also found in ancient Egyptian ruins.\n\n The first print reference to \"noughts and crosses,\" the British name for the game, appeared in 1864. The first print reference to a game called \"tick-tack-toe\" occurred in 1884 but referred to a children's game played on a slate.\n\nGameplay\nThe goal of tic-tac-toe is to be the first player to get three in a row on a 3-by-3 grid.To start, one player draws a board, creating a grid of squares, usually 3-by-3.\n\nIn a 3-by-3 grid game, the player who is playing \"X\" always goes first. Players alternate placing Xs and Os on the board until either player has three in a row, horizontally, vertically, or diagonally or until all squares on the grid are filled. If a player is able to draw three Xs or three Os in a row, then that player wins. If all squares are filled and neither player has made a complete row of Xs or Os, then the game is a draw.\n\n\nOne of the game's best strategies involves creating a \"fork,\" which is placing your mark in such a way that you have the opportunity to win two ways on your next turn. Your opponent can only block one, thereby, you can win after that.\n\n\n";
+
+/* Class = "UILabel"; text = "xScore: 0"; ObjectID = "uhL-z1-BGt"; */
+"uhL-z1-BGt.text" = "xScore: 0";
+
+/* Class = "UILabel"; text = "Сlick on the button i and at the top"; ObjectID = "xhl-xQ-WRe"; */
+"xhl-xQ-WRe.text" = "Сlick on the button i and at the top";
+
+/* Class = "UINavigationItem"; title = "Home"; ObjectID = "zez-iF-Ci4"; */
+"zez-iF-Ci4.title" = "Home";

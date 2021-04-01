@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  XorO
+
+  Created by ADMIN on 16/12/2019.
+  Copyright © 2019 Armen Shahvaladyan. All rights reserved.
+*/
+
+"Homelabelkey" = "Сlick on the button ⓘ and at the top";
+"PlayKey" = "Play";
+"HomeKey" = "Home";
+"xScoreKey" = "xScore: 0";
+"oScoreKey" = "oScore: 0";
+"GameTitleKey" = "Game";
+"DRAW" = "DRAW";
+"CROSS WON" = "CROSS WON";
+"NOUGHT WON" = "NOUGHT WON";
+"ColorKey" = "Choose color";
+"xScore:" = "xScore:";
+"oScore:" = "oScore:";
+"resetButton" = "RESET";
+"button" = "Play";
+"Attention" = "Attention";
+"X and O colors the same " = "X and O colors the same ";
+"Cancel" = "Cancel";
+"This language is already selected" = "This language is already selected";
+"Сhoose language" = "Сhoose language";

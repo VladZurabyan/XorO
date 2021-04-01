@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  XorO
+
+  Created by ADMIN on 16/12/2019.
+  Copyright © 2019 Armen Shahvaladyan. All rights reserved.
+*/
+"Homelabelkey" = "Нажмите на кнопку ⓘ вверху";
+"PlayKey" = "Начать";
+"HomeKey" = "Главная";
+"xScoreKey" = "Очки Х: 0";
+"oScoreKey" = "Очки O: 0";
+"GameTitleKey" = "Игра";
+"DRAW" = "НИЧЬЯ";
+"CROSS WON" = "Х ПОБЕДИЛ";
+"NOUGHT WON" = "O ПОБЕДИЛ";
+"ColorKey" = "Выбор цвета";
+"xScore:" = "Очки Х:";
+"oScore:" = "Очки O:";
+"resetButton" = "Заново";
+"button" = "Начать";
+"Attention" = "Внимание";
+"X and O colors the same " = "Одинаковые цвета у X и O ";
+"Cancel" = "Отменить";
+"This language is already selected" = "Этот язык уже выбран";
+"Сhoose language" = "Выбрать язык";
